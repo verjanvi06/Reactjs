@@ -1,7 +1,7 @@
-#all project in this repo
+# all project in this repo
 
 
-#amazon login and register page 
+# amazon login and register page 
 
 
 
